@@ -12,12 +12,13 @@
   li {
     margin-left: 20px;
     margin-right: 20px;
-    transition: 0.5s;
+    transition: 0.3s;
   }
 
   li:hover {
     background: rgb(248, 0, 9);
     border-radius: 5px;
+    //border-bottom: red solid 2px;
   }
   a {
     color: white !important;
