@@ -9,4 +9,8 @@
 
 .formularioContacto {
   width: 50%;
+  textarea {
+    min-height: 300px;
+    max-height: 300px;
+  }
 }

@@ -181,6 +181,10 @@
   padding-top: 50px;
 }
 
+.section1ElclubTexto {
+  width: 50%;
+}
+
 .section1Contacto {
   width: 100%;
   display: -webkit-box;
@@ -201,6 +205,11 @@
 
 .formularioContacto {
   width: 50%;
+}
+
+.formularioContacto textarea {
+  min-height: 300px;
+  max-height: 300px;
 }
 
 .section1Asociate {
